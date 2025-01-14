@@ -1,0 +1,11 @@
+﻿Dialysis modality;medication_category;medication_data
+Hemodialyse (HD);cardiovascular;94,8
+Hemodialyse (HD);diabetes;37,6
+Hemodialyse (HD);renal;99,9
+Hemodialyse (HD);symptoms;97,8
+Hemodialyse (HD);other;89
+Peritoneale dialyse (PD);cardiovascular;95
+Peritoneale dialyse (PD);diabetes;39,3
+Peritoneale dialyse (PD);renal;99,9
+Peritoneale dialyse (PD);symptoms;98,7
+Peritoneale dialyse (PD);other;99,1
