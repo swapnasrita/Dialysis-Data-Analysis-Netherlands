@@ -21,4 +21,4 @@ Additionally, the dataset's granularity—covering care costs, medication use, a
 
 I did data cleaning and visualisation using PowerBI.
 The report was written on Google Docs.
-For the full report, go to my website [here](https://pages.github.com/)
+For the full report, go to my website [here](https://sites.google.com/view/swapnasrita/blog/data-analysis-portfolio/dialysis-netherlands).
