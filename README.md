@@ -1,5 +1,6 @@
 # Dialysis-Data-Analysis-Netherlands
-Dataset
+**Dataset**
+
 The dataset originates from the kidney atlas, an initiative aimed at mapping information about care and associated costs for individuals with kidney disease in the Netherlands, including regional variations. It is generated using data from the Vektis database, which contains declared healthcare data for nearly all residents of the Netherlands.
 The dataset provides detailed insights into:
 The number of kidney patients in the Netherlands and across different regions.
@@ -10,7 +11,8 @@ Data is updated annually, covering the period from 2012 to 2021, and is managed 
 The kidney atlas is publicly accessible via nieratlas.nl, where the data is visualized and made available for research and policy analysis. Its open nature supports transparency and facilitates data-driven improvements in kidney care.
 
 
-Why this dataset?
+**Why this dataset?**
+
 Since 2020, during my postdoctoral studies, I have focused on improving dialysis methods, specifically through a sorbent-assisted peritoneal dialysis (PD) model. My aim has been to enhance patient mobility and overall quality of life—key factors for improving long-term outcomes for kidney patients.
 Peritoneal dialysis (PD) offers several advantages over hemodialysis (HD), including greater flexibility for patients and potentially fewer hospital visits. However, while quality of life is challenging to quantify directly, cost-effectiveness is measurable. This dataset is particularly valuable because it provides detailed information on healthcare costs for both HD and PD. By analyzing this data, I can validate the notion that PD is not only a gentler alternative but also a more cost-effective one compared to HD.
 Additionally, the dataset's granularity—covering care costs, medication use, and outcomes—offers a comprehensive view that supports both regional and national healthcare decision-making. It aligns directly with my research focus and provides a data-driven foundation for advocating for improved dialysis options.
