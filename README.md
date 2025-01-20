@@ -1,4 +1,12 @@
 # Dialysis-Data-Analysis-Netherlands
+
+**SUGGESTIONS FROM THE STUDY**
+**Government/healthcare sector**: Since the burden of kidney disease is ever increasing, increasing support for development of mobile devices through academic research or company funding would help relieve more costs.
+
+**Hospitals/Dialysis centers**: Incentives like green dialysis (recovery of waste water from dialysis) would help recover some utilities cost for the dialysis centers. Active participation from caregivers could also take the pressure off from staff at the hospital. Adherence to medicines is a genuine problem among dialysis patients, also leads to prolonged treatment. Caregivers could be involved in this as well.
+
+**Patient**: Opting for a more gentle dialysis option such as peritoneal dialysis could help save costs (unless otherwise advised by the clinicians). It also gives more social mobility, ensuring peace of mind and communal life, a healthy path for chronic patients.
+
 **Dataset**
 
 The dataset originates from the kidney atlas, an initiative aimed at mapping information about care and associated costs for individuals with kidney disease in the Netherlands, including regional variations. It is generated using data from the Vektis database, which contains declared healthcare data for nearly all residents of the Netherlands.
