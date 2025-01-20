@@ -1,6 +1,7 @@
 # Dialysis-Data-Analysis-Netherlands
 
 **SUGGESTIONS FROM THE STUDY**
+
 **Government/healthcare sector**: Since the burden of kidney disease is ever increasing, increasing support for development of mobile devices through academic research or company funding would help relieve more costs.
 
 **Hospitals/Dialysis centers**: Incentives like green dialysis (recovery of waste water from dialysis) would help recover some utilities cost for the dialysis centers. Active participation from caregivers could also take the pressure off from staff at the hospital. Adherence to medicines is a genuine problem among dialysis patients, also leads to prolonged treatment. Caregivers could be involved in this as well.
